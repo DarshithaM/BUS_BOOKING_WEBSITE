@@ -1,4 +1,4 @@
-package com.preethi;
+package com.darshitha;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
